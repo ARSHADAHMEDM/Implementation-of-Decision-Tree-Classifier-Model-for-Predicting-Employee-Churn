@@ -55,18 +55,23 @@ Initial Dataset:
 Dataset information:
 
 ![op1](./o2.png)
+
 Left column value count:
 
 ![op1](./o3.png)
+
 Encoded Dataset:
 
 ![op1](./o4.png)
+
 X set:
 
 ![op1](./o5.png)
+
 Y values:
 
 ![op1](./o6.png)
+
 Accuracy score:
 
 ![op1](./o7.png)
