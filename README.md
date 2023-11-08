@@ -75,6 +75,7 @@ Y values:
 Accuracy score:
 
 ![op1](./o7.png)
+
 Result value of Model when tested:
 
 ![op1](./o8.png)
